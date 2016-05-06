@@ -1,6 +1,10 @@
 # Expectation-Maximization
 Expectation Maximization in Python
 
+MADE BY:
+Omar López Rincón
+Lizbeth Peralta Malváez
+
 INTRODUCCIÓN
 El algoritmo de maximización de esperanza se usa en estadística para encontrar estimadores de máxima 
 verosimilitud de parámetros en modelos probabilísticos que dependen de variables no observables. El algoritmo 
